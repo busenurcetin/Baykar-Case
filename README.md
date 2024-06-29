@@ -7,7 +7,6 @@
 ## İçerik
 - [Shoe Website](#shoe-website)
   - [İçerik](#i̇çerik)
-  - [İçerik](#i̇çerik-1)
   - [Genel Bilgi](#genel-bilgi)
   - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
  
