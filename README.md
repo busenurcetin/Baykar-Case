@@ -2,7 +2,7 @@
 
 > Bu projeyi Baykar stajı yapmak için oluşturdum. Projede sadece HTML, CSS, Bootstrap ve JavaScript kullandım.
 
-> Canlı Proje [_tıkla_](https://grocery-website-kappa.vercel.app/).
+> Canlı Proje [_tıkla_](https://baykar-case-theta.vercel.app/).
 
 ## İçerik
 - [Shoe Website](#shoe-website)
